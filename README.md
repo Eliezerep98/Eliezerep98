@@ -1,5 +1,3 @@
-![me](https://github.com/Eliezerep98/Eliezerep98/issues/1#issue-1550246988)
-
 Hi, I'm Eliezer 👋🏽👨🏽‍💻
 
 - 🔭 I’m currently working on personal projects.
@@ -7,4 +5,8 @@ Hi, I'm Eliezer 👋🏽👨🏽‍💻
 - 👯 I’m looking to collaborate with other content creators.
 - 💬 Ask me about Java and Javascript.
 - ⚡ Fun fact: I have trouble pronouncing the R when I speak.
+
+You can find me on:
+- [Imstagram](https://www.instagram.com/charmingman_/)
+- [linkedin](https://www.linkedin.com/in/perezeliezer/)
 
