@@ -1,4 +1,4 @@
-![](https://github.com/Eliezerep98/Eliezerep98/issues/1#issue-1550246988)
+![me](https://github.com/Eliezerep98/Eliezerep98/issues/1#issue-1550246988)
 
 Hi, I'm Eliezer 👋🏽👨🏽‍💻
 
