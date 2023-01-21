@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Eliezer 👋🏽👨🏽‍💻</h2>
+<h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello! I'm Eliezer </h2>
 
 - 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning about Java and perfecting myself in Frontend Web Development.
