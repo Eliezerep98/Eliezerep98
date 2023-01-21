@@ -1,4 +1,6 @@
-<h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello! I'm Eliezer </h2>
+<h2 align="left"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello! I'm Eliezer </h2>
+
+![coding](https://user-images.githubusercontent.com/93295326/213856774-a1048289-beab-47aa-9ee9-8c0851db61c5.gif)
 
 - 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning about Java and perfecting myself in Frontend Web Development.
