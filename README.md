@@ -8,7 +8,7 @@
 - 💬 Ask me about Java and Javascript.
 - ⚡ Fun fact: I have trouble pronouncing the R when I speak.
 
-<h4 align="left">Connect with me on:</h4>
+<h4 align="left">You can find me on:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/perezeliezer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/perezeliezer/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/charmingman_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/charmingman_/" height="30" width="40" /></a>
